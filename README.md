@@ -39,7 +39,19 @@ Silent Sun Demons
 
 <br>
 
-1. 
+1. 일단 Kotlin을 사용하여 앱을 만들었기 때문에 Android Studio를 설치해야 합니다.
+
+2. Android Studio에서 SDK manager를 실행하여 모두 install 합니다.
+
+3. Android Studio에서 앱을 실행할때 프로젝트 파일이 저장된 경로에 한글이 들어가면 실행이 되지 않습니다. <br>
+따라서 한글이 들어가지 않은 곳에 파일을 다운받습니다. <br>
+(다운받기 전에 C드라이브에 빈 폴더를 생성후 그 폴더 안에 저장하는것을 추천드립니다.)
+
+4. Android Studio에 접속하여 open을 눌러 저장한 파일이름을 선택하여 열어줍니다.
+
+5. AVD manager를 실행하여 Emulator를 만들고 Build 버튼을 누릅니다.
+
+6. APP 실행 버튼을 누르면 실행됩니다.
 
 ---------
 
