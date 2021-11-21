@@ -73,6 +73,8 @@ Silent Sun Demons
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'더위를 약간 타는 체질입니다.'  
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'보통 체질입니다.'  
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'추위를 약간 타는 체질입니다.  
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'추위를 많이 타는 체질입니다.' &nbsp;&nbsp;의 5가지 단계로 구분되어 있습니다.
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'추위를 많이 타는 체질입니다.'
+ 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 의 5가지 단계로 구분되어 있습니다.
 
 
