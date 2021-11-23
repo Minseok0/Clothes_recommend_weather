@@ -22,7 +22,7 @@ Silent Sun Demons
 
 <br>
 
-# <"오늘 뭐입지??" 의 목적>
+# <"뭐입징" 의 목적>
 
 <br>
 
@@ -38,7 +38,7 @@ Silent Sun Demons
 # <설치 방법>
 
 <br>
-
+*** PC에서 실행하는 경우 ***
 1. 일단 Kotlin을 사용하여 앱을 만들었기 때문에 Android Studio를 설치해야 합니다.
 
 2. Android Studio에서 SDK manager를 실행하여 모두 install 합니다.
@@ -52,6 +52,14 @@ Silent Sun Demons
 5. AVD manager를 실행하여 Emulator를 만들고 Build 버튼을 누릅니다.
 
 6. APP 실행 버튼을 누르면 실행됩니다.
+
+*** 핸드폰에 설치하는 경우 ***
+ 
+ 1. 안드로이드 폰을 PC에 연결 후 개발자 모드로 변경해줍니다. (메뉴 -> 휴대전화 정보 -> 소프트웨어 정보 -> 빌드번호 여러번 터치)
+ 
+ 2. USB 디버깅을 활성화 시킵니다.
+ 
+ 3. App을 실행합니다. 
 
 ---------
 
