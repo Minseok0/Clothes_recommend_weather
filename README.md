@@ -39,6 +39,7 @@ Silent Sun Demons
 
 <br>
 *** PC에서 실행하는 경우 ***
+
 1. 일단 Kotlin을 사용하여 앱을 만들었기 때문에 Android Studio를 설치해야 합니다.
 
 2. Android Studio에서 SDK manager를 실행하여 모두 install 합니다.
