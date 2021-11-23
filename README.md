@@ -50,7 +50,7 @@ Silent Sun Demons
 
 4. Android Studio에 접속하여 open을 눌러 저장한 파일이름을 선택하여 열어줍니다.
 
-5. AVD manager를 실행하여 Emulator를 만들고 Build 버튼을 누릅니다.
+5. AVD manager를 실행하여 Emulator를 만들고 Build 버튼을 누릅니다. (가상 디바이스 만들때 Playstore 항목에 ▷ 표시 되어있는 디바이스를 선택해야 합니다.)
 
 6. APP 실행 버튼을 누르면 실행됩니다.
 
